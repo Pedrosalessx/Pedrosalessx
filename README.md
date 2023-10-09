@@ -1,16 +1,24 @@
-### Hi there 👋
+## Bem-vindo(a) ao perfil do Pedro Sales 
 
-<!--
-**Pedrosalessx/Pedrosalessx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div>
+   <a href="https://github.com/Pedrosalessx">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSales&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSales&layout=compact&langs_count=6&theme=gruvbox"/>
+</div>
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+<br>
+ 
+### Minhas redes sociais! 
+<div> 
+  <a href="https://instagram.com/Pedro.sallessx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+ 
+  <a href="https://www.linkedin.com/in/pedro-sales-047779294" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
